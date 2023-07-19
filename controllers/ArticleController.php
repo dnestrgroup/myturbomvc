@@ -1,0 +1,6 @@
+<?php
+
+// FRONT Controller
+
+
+?>

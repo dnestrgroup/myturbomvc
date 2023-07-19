@@ -1,0 +1,18 @@
+body, html {
+margin:0px;
+padding:0px;
+ /*background: #e5edef;*/
+ background-image: url('images/bg-256.png');
+ font-family: Veranda, Arial; 
+ font-size: 15px;
+ color: #000;
+}
+
+
+    	.my_box_style {
+		margin-top: 170px;
+		width: 240px;
+		height: 100px;
+		background: #54ff8a;
+		color: #000;
+		}
